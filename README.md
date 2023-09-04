@@ -8,9 +8,17 @@ The data used in this project comes from multiple sources that were joined toget
 ## Methodology 
 This project uses descriptive analysis and linear regression to predict the relationship between production value and profit, as well as the relationship between the number of markets and profit. It also provides an overview of the average profitability of different genres.
 ## Results
-There is a strong correlation between the initial investment of the movie and the ratings the movie recieves. It was also found that the ratings are highly correlated with the profit of the movie. The more you invest, the more profitable your movie is likely to be - if it proves to be popular. It was also shown that the number of markets a movie is released in is an excellent predictor of its profitability.
+There is a strong correlation between the initial investment of the movie and the ratings the movie recieves. It was also found that the ratings are highly correlated with the profit of the movie. This corellation can be seen in the following graph:
+
+![](https://github.com/Davidkeebler/Real-Box-Office-Analysis/blob/main/img-src/score%20vs%20profit.png?raw=true)
+
+ The more you invest, the more profitable your movie is likely to be - if it proves to be popular. It was also shown that the number of markets a movie is released in is an excellent predictor of its profitability, as seen in this graph:
+
+ ![](https://github.com/Davidkeebler/Real-Box-Office-Analysis/blob/main/img-src/markets%20vs%20profit%20.png?raw=true)
 
 The analysis of genres found that Animation, Adventure, and Sci-Fi movies tend to be significantly more profitable than other genres of movies. 
+
+![](https://github.com/Davidkeebler/Real-Box-Office-Analysis/blob/main/img-src/genres.png?raw=true)
 ## Conclusions
 My analysis has created three conclusions about how investors should invest in new movies:
 - **Maximize film production budget.** Film production budget is correlated with an increase in aggregate user ratins, which in turn are highly correlated with a large increase in profit per point of rating. There is effectively an exponential relationship between production budget and profit, so it is very important to invest as much as possible in the production of each individual movie, instead of churning out many low-budget movies. 
