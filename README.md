@@ -29,9 +29,10 @@ There are more analyses that could potentially help investors narrow in on the b
 - **Create a multiple linear regression model of all the different factors that may contribute to aggregate movie scores.** It is very likely that my simple linear regression model's prediction of the relationship between initial investment and user ratings is missing out on several other factors that contribute to better scores. Investors could further increase their profits by finding and maximizing these other factors.
 - **Determine which markets contribute the most to the profit of a movie and spend more money on advertising to those markets.** My analysis predicts a linear increase for each additional market that a movie is released in, but not all markets are created equal. Investors could further increase their profit by determining which markets contribute the most to sales and focusing advertising efforts on those markets.
 ## Repository Structure
+├── images  
 ├── data  
 ├── .gitignore  
 ├── readme.md  
-├── index.ipynb  
-└── images
+└── index.ipynb  
+
 
