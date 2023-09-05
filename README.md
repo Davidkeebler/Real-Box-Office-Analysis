@@ -32,6 +32,7 @@ There are more analyses that could potentially help investors narrow in on the b
 ├── images  
 ├── data  
 ├── .gitignore  
+├── box office analysis presentation.pdf  
 ├── readme.md  
 └── index.ipynb  
 
